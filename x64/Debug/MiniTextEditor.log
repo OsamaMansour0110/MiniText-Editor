@@ -1,0 +1,11 @@
+﻿  Menu.cpp
+  DS_map.cpp
+  miniTextEditor.cpp
+D:\visual studio hager\folder_project\3final\MiniTextEditor_FINAL\MiniTextEditor\MiniTextEditor\miniTextEditor.cpp(309,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\visual studio hager\folder_project\3final\MiniTextEditor_FINAL\MiniTextEditor\MiniTextEditor\miniTextEditor.cpp(317,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+D:\visual studio hager\folder_project\3final\MiniTextEditor_FINAL\MiniTextEditor\MiniTextEditor\miniTextEditor.cpp(493): warning C4715: 'miniTextEditor::GetLine': not all control paths return a value
+  Menu.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MiniTextEditor.vcxproj -> D:\visual studio hager\folder_project\3final\MiniTextEditor_FINAL\MiniTextEditor\x64\Debug\MiniTextEditor.exe

@@ -1,0 +1,12 @@
+E:\0Third Year Second Term0\Data Structure\project last version\MiniTextEditor\MiniTextEditor\x64\Debug\MiniTextEditor.vcxproj.AssemblyReference.cache
+E:\0Third Year Second Term0\Data Structure\project last version\MiniTextEditor\MiniTextEditor\x64\Debug\MiniTextEditor.vcxproj.SuggestedBindingRedirects.cache
+E:\0Third Year Second Term0\Data Structure\project last version\MiniTextEditor\MiniTextEditor\x64\Debug\MiniTextEditor.vcxproj.GenerateResource.cache
+E:\0Third Year Second Term0\Data Structure\project last version\MiniTextEditor\MiniTextEditor\x64\Debug\MiniTextEditor.Menu.resources
+E:\0Third Year Second Term0\Data Structure\project last version\MiniTextEditor\MiniTextEditor\x64\Debug\MiniTextEditor.Main.resources
+D:\visual\semester4Projects\MiniTextEditor_FINAL\MiniTextEditor\MiniTextEditor\x64\Debug\MiniTextEditor.Menu.resources
+D:\visual\semester4Projects\MiniTextEditor_FINAL\MiniTextEditor\MiniTextEditor\x64\Debug\MiniTextEditor.Main.resources
+D:\visual\semester4Projects\MiniTextEditor_FINAL\MiniTextEditor\MiniTextEditor\x64\Debug\MiniTextEditor.vcxproj.GenerateResource.cache
+D:\visual\semester4Projects\MiniTextEditor_FINAL\MiniTextEditor\MiniTextEditor\x64\Debug\MiniTextEditor.vcxproj.AssemblyReference.cache
+D:\visual studio hager\folder_project\3final\MiniTextEditor_FINAL\MiniTextEditor\MiniTextEditor\x64\Debug\MiniTextEditor.Menu.resources
+D:\visual studio hager\folder_project\3final\MiniTextEditor_FINAL\MiniTextEditor\MiniTextEditor\x64\Debug\MiniTextEditor.Main.resources
+D:\visual studio hager\folder_project\3final\MiniTextEditor_FINAL\MiniTextEditor\MiniTextEditor\x64\Debug\MiniTextEditor.vcxproj.GenerateResource.cache

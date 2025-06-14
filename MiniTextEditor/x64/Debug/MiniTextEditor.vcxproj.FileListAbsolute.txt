@@ -1,0 +1,3 @@
+D:\visual studio hager\folder_project\3final\MiniTextEditor\MiniTextEditor\x64\Debug\MiniTextEditor.Menu.resources
+D:\visual studio hager\folder_project\3final\MiniTextEditor\MiniTextEditor\x64\Debug\MiniTextEditor.Main.resources
+D:\visual studio hager\folder_project\3final\MiniTextEditor\MiniTextEditor\x64\Debug\MiniTextEditor.vcxproj.GenerateResource.cache
